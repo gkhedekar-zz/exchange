@@ -1,0 +1,31 @@
+Idea:
+App to let people exchange things they own for something they want to own without involving money. Its like the old barter system.
+
+User Input/Data:
+1. Users will post a list of things that they own and they are willing to exchange with the estimated price.
+2. Users will create a list of items that they want to possess (wish list) and the price range
+
+Based on the user inputs, the app will suggest list of items that the user can exchange for some other item within some margin of price range.
+
+Algorithm to give suggestion should include:
+1. users wish list
+2. location - proximity to the user
+3. price range
+4. item category
+
+Advanced: It should also suggest something by combining related/random items that user has.
+
+Trending items based on location, demand - so that users can think if they have that itema and are willing to exchange.
+
+** Time limit for the exchagne. For example: i want to borrow the a game for a month and then give it back.
+
+version 1: Items only less than $1500 and only in areas in seattle and around.
+
+
+
+Tehnology:
+vrsion1 : Android app and backend api service
+
+no idea right now on backend- 
+
+
